@@ -1,4 +1,4 @@
-<h1 align="center">We are scraping Steam games.</h1>
+<h1 align="center">Scraping Steam games.</h1>
 <h3 align="center">We use Python to do it</h3>
 
 <h3 align="left">Languages and Tools:</h3>
